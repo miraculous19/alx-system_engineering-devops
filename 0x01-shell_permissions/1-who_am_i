@@ -1,4 +1,3 @@
 #!/bin/bash
-id -u -n
-
+id -n -u
 
