@@ -1,2 +1,0 @@
-#!/bin/bashd
-tail -n 10 /etc/passwd
